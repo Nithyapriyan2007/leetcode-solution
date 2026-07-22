@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0012-integer-to-roman) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
