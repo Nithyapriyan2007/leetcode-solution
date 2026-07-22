@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0045-jump-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
