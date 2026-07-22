@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0045-jump-game-ii) |
 ## Math
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
