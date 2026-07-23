@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0046-permutations) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
