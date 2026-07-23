@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
