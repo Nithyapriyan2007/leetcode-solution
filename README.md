@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,8 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0054-spiral-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
