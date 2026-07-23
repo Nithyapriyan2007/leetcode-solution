@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0079-word-search) |
 ## Trie
 |  |
 | ------- |
@@ -107,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0079-word-search) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0079-word-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
