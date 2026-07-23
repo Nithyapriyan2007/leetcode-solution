@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0072-edit-distance) |
 ## Trie
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0072-edit-distance) |
 ## Backtracking
 |  |
 | ------- |
