@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0097-interleaving-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0067-add-binary) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Combinatorics
 |  |
 | ------- |
