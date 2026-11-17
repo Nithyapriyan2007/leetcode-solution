@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0097-interleaving-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2288-apply-discount-to-prices](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/2288-apply-discount-to-prices) |
 ## Trie
 |  |
 | ------- |
