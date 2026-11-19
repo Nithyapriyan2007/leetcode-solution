@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0097-interleaving-string) |
+| [0629-k-inverse-pairs-array](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0629-k-inverse-pairs-array) |
 ## Backtracking
 |  |
 | ------- |
