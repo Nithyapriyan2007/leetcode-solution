@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0496-next-greater-element-i](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
