@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0147-insertion-sort-list) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
@@ -221,4 +223,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
