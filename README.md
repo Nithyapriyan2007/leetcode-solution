@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/1486-xor-operation-in-an-array) |
 ## Memoization
 |  |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -235,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
