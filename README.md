@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0733-flood-fill) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0097-interleaving-string) |
+| [0198-house-robber](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0198-house-robber) |
 | [0629-k-inverse-pairs-array](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0629-k-inverse-pairs-array) |
 ## Backtracking
 |  |
