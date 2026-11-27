@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0097-interleaving-string) |
 | [0198-house-robber](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0322-coin-change) |
 | [0629-k-inverse-pairs-array](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0629-k-inverse-pairs-array) |
 ## Backtracking
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0322-coin-change](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
@@ -246,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
