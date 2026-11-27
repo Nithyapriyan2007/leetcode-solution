@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0097-interleaving-string) |
 | [0198-house-robber](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 | [0629-k-inverse-pairs-array](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0629-k-inverse-pairs-array) |
 ## Backtracking
 |  |
@@ -253,8 +255,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Nithyapriyan2007/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
